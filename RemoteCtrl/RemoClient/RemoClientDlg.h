@@ -4,11 +4,11 @@
 
 #pragma once
 
-
+//001ef w
 // CRemoClientDlg 对话框
 class CRemoClientDlg : public CDialogEx
 {
-// 构造
+// 构造fwe
 public:
 	CRemoClientDlg(CWnd* pParent = nullptr);	// 标准构造函数
 
